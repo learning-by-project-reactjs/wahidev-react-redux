@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 7,
+      "nama": "Lenore Drennan",
+      "alamat": "0287 Hazelcrest Point",
+      "umur": 25,
+      "nohp": "+86 552 489 8962"
+    },
+    {
+      "id": 8,
+      "nama": "Eduino Patton",
+      "alamat": "089 Sundown Hill",
+      "umur": 52,
+      "nohp": "+1 897 503 0051"
+    },
+    {
+      "id": 9,
+      "nama": "Averill Aldrin",
+      "alamat": "02084 Mallard Street",
+      "umur": 45,
+      "nohp": "+57 913 124 1331"
+    },
+    {
+      "nama": "Jacob Pit",
+      "nohp": "+1 716 391 4064",
+      "alamat": "03104 Waxwing Avenue",
+      "umur": 45,
+      "id": 10
+    },
+    {
+      "id": 12,
+      "nama": "Corny Brunning",
+      "alamat": "1468 Bartelt Hill",
+      "umur": 48,
+      "nohp": "+62 478 546 8355"
+    },
+    {
+      "id": 13,
+      "nama": "Kristy Cowey",
+      "alamat": "0225 Fairfield Way",
+      "umur": 38,
+      "nohp": "+976 894 177 6627"
+    },
+    {
+      "id": 14,
+      "nama": "Cacilie Joskowitz",
+      "alamat": "90 American Ash Way",
+      "umur": 60,
+      "nohp": "+62 487 376 9596"
+    },
+    {
+      "id": 15,
+      "nama": "Alverta Yarrell",
+      "alamat": "225 Everett Center",
+      "umur": 45,
+      "nohp": "+375 284 511 1430"
+    },
+    {
+      "id": 16,
+      "nama": "Jolyn Denacamp",
+      "alamat": "338 Anhalt Center",
+      "umur": 19,
+      "nohp": "+7 437 356 7789"
+    },
+    {
+      "id": 17,
+      "nama": "Upton Shoemark",
+      "alamat": "514 Longview Avenue",
+      "umur": 28,
+      "nohp": "+46 265 223 4397"
+    }
+  ]
+}
